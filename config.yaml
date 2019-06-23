@@ -1,0 +1,2 @@
+main:
+  sql: 'mysql://asset_rw:asset123456@localhost:3306/goland_asset'
